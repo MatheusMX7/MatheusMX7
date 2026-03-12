@@ -44,7 +44,7 @@ Olá! Sou um desenvolvedor apaixonado por tecnologia e inovação. Com 20 anos, 
 
 ### 📫 Vamos Conectar?
 
-- **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+- **LinkedIn:** [linkedin.com/in/seu-perfil](in/matheus-soares-lima-21467733b)
 - **Email:** matheussoareslima2@gmail.com
 - **GitHub:** [github.com/MatheusMX7](https://github.com/MatheusMX7)
 
