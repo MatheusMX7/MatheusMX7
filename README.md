@@ -24,7 +24,10 @@ Olá! Sou um desenvolvedor apaixonado por tecnologia e inovação. Com 20 anos, 
 <div align="center">
  
  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+  
+  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+          
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
