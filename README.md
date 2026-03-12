@@ -34,19 +34,19 @@ Olá! Sou um desenvolvedor apaixonado por tecnologia e inovação. Com 20 anos, 
 
 ### 📊 Meus Stats no GitHub
 
-<div align="center">
-  <!-- ⚠️ SUBSTITUA SEU_USUARIO PELO SEU LOGIN REAL DO GITHUB -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+<div>
+<a href="https://github.com/MatheusMX7">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMX7&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusMX7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
+  
 ---
 
 ### 📫 Vamos Conectar?
 
 - **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-- **Email:** seuemail@exemplo.com
-- **GitHub:** [github.com/SEU_USUARIO](https://github.com/SEU_USUARIO)
+- **Email:** matheussoareslima2@gmail.com
+- **GitHub:** [github.com/MatheusMX7](https://github.com/MatheusMX7)
 
 ---
 
