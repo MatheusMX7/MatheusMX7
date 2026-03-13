@@ -39,7 +39,8 @@ Olá! Sou um desenvolvedor apaixonado por tecnologia e inovação. Com 20 anos, 
 ### 📊 Meus Stats no GitHub
 
 <div>
-
+<a href="https://github.com/MatheusMX7">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMX7&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 ---
